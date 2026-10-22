@@ -20,6 +20,8 @@
 
 </div>
 
+<img src="assets/gradient.svg" alt="YOUR NAME" width="900" />
+
 <details>
 <summary>Contents</summary>
 
